@@ -10,4 +10,5 @@ v2rayN
 
 ## 节点
 https://raw.githubusercontent.com/freefq/free/master/v2
+https://raw.fastgit.org/freefq/free/master/v2
 
