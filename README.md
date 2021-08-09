@@ -8,3 +8,6 @@ v2rayN
 
 ## 自定义路由规则
 
+## 节点
+https://raw.githubusercontent.com/freefq/free/master/v2
+
