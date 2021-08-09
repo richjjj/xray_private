@@ -11,6 +11,7 @@ v2rayN
 ## 节点
 
 https://raw.githubusercontent.com/freefq/free/master/v2
+
 https://raw.fastgit.org/freefq/free/master/v2
 
 ## 命令参考
@@ -47,3 +48,12 @@ v2ray update.sh 更新 V2Ray 管理脚本
 
 v2ray uninstall 卸载 V2Ray
 
+## x-ui及BBR加速
+
+bash <(curl -Ls https://raw.githubusercontent.com/sprov065/x-ui/master/install.sh)
+
+wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh"
+
+chmod +x tcp.sh
+
+./tcp.sh
