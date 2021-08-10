@@ -52,6 +52,8 @@ v2ray uninstall 卸载 V2Ray
 
 bash <(curl -Ls https://raw.githubusercontent.com/sprov065/x-ui/master/install.sh)
 
+项目地址  https://github.com/vaxilu/x-ui
+
 wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh"
 
 chmod +x tcp.sh
@@ -63,3 +65,5 @@ chmod +x tcp.sh
 
 ## 参考项目
 https://github.com/Loyalsoldier/v2ray-rules-dat
+
+https://github.com/233boy/v2ray/wiki/V2Ray%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC
