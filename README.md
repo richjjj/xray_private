@@ -59,6 +59,26 @@ wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-
 chmod +x tcp.sh
 
 ./tcp.sh
+
+# xray一键安装
+安装/更新方式（Nginx 前置）
+支持配置方式
+
+VLESS + TCP + TLS + Nginx + WebSocket
+
+wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.com/wulabing/Xray_onekey/nginx_forward/install.sh" && chmod +x install.sh && bash install.sh
+
+安装/更新方式（Xray 前置）
+支持配置方式
+
+VLESS + TCP + XTLS / TLS + Nginx
+
+VLESS + TCP + XTLS / TLS + Nginx 及 VLESS + TCP + TLS + Nginx + WebSocket 回落并存模式
+
+wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.com/wulabing/Xray_onekey/main/install.sh" && chmod +x install.sh && bash install.sh
+
+
+
 ## 优化 V2Ray
 可以尝试使用含有 mKCP 的传输协议，这个 mKCP 的东东，简单一点说就像 Kcptun 一样加速，并且还能进行伪装 (可选)，但是由于 mKCP 是使用 UDP 协议的，也许运营商会限速得更加厉害，网络变得更加慢。但不管怎么样，你都可以随时尝试一下。
 服务器输入 v2ray config 回车，然后选择 修改 V2Ray 传输协议，再接着选择 mKCP 相关的传输协议即可
@@ -67,3 +87,5 @@ chmod +x tcp.sh
 https://github.com/Loyalsoldier/v2ray-rules-dat
 
 https://github.com/233boy/v2ray/wiki/V2Ray%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC
+
+https://github.com/wulabing/Xray_onekey
