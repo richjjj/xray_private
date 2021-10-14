@@ -86,8 +86,12 @@ wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.c
 ## 路由规则
 替换geosit.dat文件，包含的分类参考 https://github.com/v2fly/domain-list-community/tree/master/data 
 
-例子: geosite:github,
-      gesite:microsoft
+例子: 
+      geosite:github,
+      
+      gesite:microsoft,
+      
+      geosite:steam@cn
 
 ## 参考项目
 https://github.com/Loyalsoldier/v2ray-rules-dat
