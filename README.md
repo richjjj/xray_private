@@ -87,6 +87,7 @@ wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.c
 替换geosit.dat文件，包含的分类参考 https://github.com/v2fly/domain-list-community/tree/master/data 
 
 例子: 
+
       geosite:github,
       
       gesite:microsoft,
