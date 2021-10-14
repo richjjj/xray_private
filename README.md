@@ -83,6 +83,12 @@ wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.c
 可以尝试使用含有 mKCP 的传输协议，这个 mKCP 的东东，简单一点说就像 Kcptun 一样加速，并且还能进行伪装 (可选)，但是由于 mKCP 是使用 UDP 协议的，也许运营商会限速得更加厉害，网络变得更加慢。但不管怎么样，你都可以随时尝试一下。
 服务器输入 v2ray config 回车，然后选择 修改 V2Ray 传输协议，再接着选择 mKCP 相关的传输协议即可
 
+## 路由规则
+替换geosit.dat文件，包含的分类参考 https://github.com/v2fly/domain-list-community/tree/master/data 
+
+例子: geosite:github,
+      gesite:microsoft
+
 ## 参考项目
 https://github.com/Loyalsoldier/v2ray-rules-dat
 
