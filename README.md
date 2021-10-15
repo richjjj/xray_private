@@ -8,12 +8,6 @@ v2rayN
 
 ## 自定义路由规则
 
-## 节点
-
-https://raw.githubusercontent.com/freefq/free/master/v2
-
-https://raw.fastgit.org/freefq/free/master/v2
-
 ## 命令参考
 
 v2ray info 查看 V2Ray 配置信息
