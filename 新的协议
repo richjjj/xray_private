@@ -1,0 +1,32 @@
+ Xray 配置信息
+ 地址（address）:  fun.just4.top
+ 端口（port）：  443
+ 用户 ID（UUID）： e3a0682a-8ad4-479f-b765-c2b1cddbb113
+ 加密方式（security）： none
+ 传输协议（network）： ws
+ 伪装类型（type）： none
+ 路径（path）： /25f6fdbd4/
+ 底层传输安全： tls
+[OK]  ————————————————————————
+ Xray 配置信息
+ 地址（address）:  fun.just4.top
+ 端口（port）：  443
+ 用户 ID（UUID）： e3a0682a-8ad4-479f-b765-c2b1cddbb113
+ 流控（flow）： xtls-rprx-direct
+ 加密方式（security）： none
+ 传输协议（network）： tcp
+ 伪装类型（type）： none
+ 底层传输安全： xtls 或 tls
+[OK]  URL 链接 (VLESS + TCP + TLS)
+[OK]  vless://e3a0682a-8ad4-479f-b765-c2b1cddbb113@fun.just4.top:443?security=tls#TLS_wulabing-fun.just4.top
+[OK]  URL 链接 (VLESS + TCP + XTLS)
+[OK]  vless://e3a0682a-8ad4-479f-b765-c2b1cddbb113@fun.just4.top:443?security=xtls&flow=xtls-rprx-direct#XTLS_wulabing-fun.just4.top
+[OK]  URL 链接 (VLESS + WebSocket + TLS)
+[OK]  vless://e3a0682a-8ad4-479f-b765-c2b1cddbb113@fun.just4.top:443?type=ws&security=tls&path=%2f25f6fdbd4%2f#WS_TLS_wulabing-fun.just4.top
+[OK]  -------------------------------------------------
+[OK]  URL 二维码 (VLESS + TCP + TLS) （请在浏览器中访问）
+[OK]  https://api.qrserver.com/v1/create-qr-code/?size=400x400&data=vless://e3a0682a-8ad4-479f-b765-c2b1cddbb113@fun.just4.top:443?security=tls%23TLS_wulabing-fun.just4.top
+[OK]  URL 二维码 (VLESS + TCP + XTLS) （请在浏览器中访问）
+[OK]  https://api.qrserver.com/v1/create-qr-code/?size=400x400&data=vless://e3a0682a-8ad4-479f-b765-c2b1cddbb113@fun.just4.top:443?security=xtls%26flow=xtls-rprx-direct%23XTLS_wulabing-fun.just4.top
+[OK]  URL 二维码 (VLESS + WebSocket + TLS) （请在浏览器中访问）
+[OK]  https://api.qrserver.com/v1/create-qr-code/?size=400x400&data=vless://e3a0682a-8ad4-479f-b765-c2b1cddbb113@fun.just4.top:443?type=ws%26security=tls%26path=%2f25f6fdbd4%2f%23WS_TLS_wulabing-fun.just4.top
