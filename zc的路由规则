@@ -30,6 +30,7 @@
       "geosite:tld-cn",
       "geosite:steam@cn",
       "geosite:category-games@cn",
+      "geosite:bing@cn",
       "geosite:win-update"
     ]
   },
