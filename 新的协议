@@ -1,23 +1,17 @@
-URL 链接 (VLESS + TCP + TLS) 
-[OK]  vless://07df9bbb-f3b6-4631-956c-427156ae4915@fun.just4.top:443?security=tls#TLS_wulabing-fun.just4.top 
-[OK]  URL 链接 (VLESS + TCP + XTLS) 
-[OK]  vless://07df9bbb-f3b6-4631-956c-427156ae4915@fun.just4.top:443?security=xtls&flow=xtls-rprx-direct#XTLS_wulabing-fun.just4.top 
-[OK]  URL 链接 (VLESS + WebSocket + TLS) 
-[OK]  vless://07df9bbb-f3b6-4631-956c-427156ae4915@fun.just4.top:443?type=ws&security=tls&path=%2f2720a9d035%2f#WS_TLS_wulabing-fun.just4.top 
-[OK]  ------------------------------------------------- 
-[OK]  URL 二维码 (VLESS + TCP + TLS) （请在浏览器中访问） 
-[OK]  https://api.qrserver.com/v1/create-qr-code/?size=400x400&data=vless://07df9bbb-f3b6-
-4631-956c-427156ae4915@fun.just4.top:443?security=tls%23TLS_wulabing-fun.just4.top 
-[OK]  URL 二维码 (VLESS + TCP + XTLS) （请在浏览器中访问） 
-[OK]  https://api.qrserver.com/v1/create-qr-code/?size=400x400&data=vless://07df9bbb-f3b6-
-4631-956c-427156ae4915@fun.just4.top:443?security=xtls%26flow=xtls-rprx-direct%23XTLS_wula
-bing-fun.just4.top 
-[OK]  URL 二维码 (VLESS + WebSocket + TLS) （请在浏览器中访问） 
-[OK]  https://api.qrserver.com/v1/create-qr-code/?size=400x400&data=vless://07df9bbb-f3b6-
-4631-956c-427156ae4915@fun.just4.top:443?type=ws%26security=tls%26path=%2f2720a9d035%2f%23
-WS_TLS_wulabing-fun.just4.top
 
 vless://f8372614-e98a-4a4c-89e9-5f35d3726774@abc.zhenjiawulala.site:443?encryption=none&security=tls&type=ws&path=%2f438a0e4%2f#WS_TLS_wulabing-abc.zhenjiawulala.site
-vless://07df9bbb-f3b6-4631-956c-427156ae4915@fun.just4.top:443?encryption=none&security=tls&type=tcp&headerType=none#TLS_wula
-vless://07df9bbb-f3b6-4631-956c-427156ae4915@fun.just4.top:443?encryption=none&security=tls&type=ws&path=%2f2720a9d035%2f#WS_TLS_wulabing-fun.just4.top
-vless://07df9bbb-f3b6-4631-956c-427156ae4915@fun.just4.top:443?flow=xtls-rprx-direct&encryption=none&security=xtls&type=tcp&headerType=none#XTLS_wulabing-fun.just4.top
+
+
+[OK]  URL 链接 (VLESS + TCP + TLS) 
+[OK]  vless://343b2d7c-0b52-4aca-8432-3e04d17517ad@fun.just4.top:443?security=tls#TLS_wulabing-fun.just4.top 
+[OK]  URL 链接 (VLESS + TCP + XTLS) 
+[OK]  vless://343b2d7c-0b52-4aca-8432-3e04d17517ad@fun.just4.top:443?security=xtls&flow=xtls-rprx-direct#XTLS_wulabing-fun.just4.top 
+[OK]  URL 链接 (VLESS + WebSocket + TLS) 
+[OK]  vless://343b2d7c-0b52-4aca-8432-3e04d17517ad@fun.just4.top:443?type=ws&security=tls&path=%2f16128066%2f#WS_TLS_wulabing-fun.just4.top 
+[OK]  ------------------------------------------------- 
+[OK]  URL 二维码 (VLESS + TCP + TLS) （请在浏览器中访问） 
+[OK]  https://api.qrserver.com/v1/create-qr-code/?size=400x400&data=vless://343b2d7c-0b52-4aca-8432-3e04d17517ad@fun.just4.top:443?security=tls%23TLS_wulabing-fun.just4.top 
+[OK]  URL 二维码 (VLESS + TCP + XTLS) （请在浏览器中访问） 
+[OK]  https://api.qrserver.com/v1/create-qr-code/?size=400x400&data=vless://343b2d7c-0b52-4aca-8432-3e04d17517ad@fun.just4.top:443?security=xtls%26flow=xtls-rprx-direct%23XTLS_wulabing-fun.just4.top 
+[OK]  URL 二维码 (VLESS + WebSocket + TLS) （请在浏览器中访问） 
+[OK]  https://api.qrserver.com/v1/create-qr-code/?size=400x400&data=vless://343b2d7c-0b52-4aca-8432-3e04d17517ad@fun.just4.top:443?type=ws%26security=tls%26path=%2f16128066%2f%23WS_TLS_wulabing-fun.just4.top
