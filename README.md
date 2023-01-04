@@ -1,46 +1,25 @@
-# v2ray大杂烩
+# v2ray/xray-core 使用说明 
+
+## 服务端安装
+一下几种方案任选一种
+
+1. https://github.com/wulabing/Xray_onekey
+2. https://github.com/kirin10000/Xray-script
+3. https://github.com/mack-a/v2ray-agent
+      
+      Ps: 当前仓库已关闭，可选 https://github.com/search?q=v2ray-agent
 
 ## v2ray客户端
-
-winxray
-
-v2rayN
+- Windows
+      [v2rayN](https://github.com/2dust/v2rayN)
+- Linux
+      [Txray](https://github.com/hsernos/Txray)
 
 ## 自定义路由规则
+参考[Loyalsoldier](https://github.com/Loyalsoldier/v2ray-rules-dat)
+
 
 ## 命令参考
-
-v2ray info 查看 V2Ray 配置信息
-
-v2ray config 修改 V2Ray 配置
-
-v2ray link 生成 V2Ray 配置文件链接
-
-v2ray infolink 生成 V2Ray 配置信息链接
-
-v2ray qr 生成 V2Ray 配置二维码链接
-
-v2ray ss 修改 Shadowsocks 配置
-
-v2ray ssinfo 查看 Shadowsocks 配置信息
-
-v2ray ssqr 生成 Shadowsocks 配置二维码链接
-
-v2ray status 查看 V2Ray 运行状态
-
-v2ray start 启动 V2Ray
-
-v2ray stop 停止 V2Ray
-
-v2ray restart 重启 V2Ray
-
-v2ray log 查看 V2Ray 运行日志
-
-v2ray update 更新 V2Ray
-
-v2ray update.sh 更新 V2Ray 管理脚本
-
-v2ray uninstall 卸载 V2Ray
 
 ## x-ui及BBR加速
 
