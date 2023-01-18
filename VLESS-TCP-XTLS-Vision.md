@@ -1,21 +1,8 @@
 ## [Xray](https://xtls.github.io/Xray-docs-next/) [VLESS-TCP-XTLS-Vision](https://github.com/chika0801/Xray-examples/tree/main/VLESS-TCP-XTLS-Vision) 手动安装教程
 # form https://github.com/chika0801/Xray-install
-准备软件
 
-- [Xshell 7 免费版](https://www.xshell.com/zh/free-for-home-school)
-- [WinSCP](https://winscp.net/eng/docs/lang:chs)
-
-重装系统
-
-- Debian 10
-- Debian 11
-- Ubuntu 18.04
+系统
 - Ubuntu 20.04
-
-开始安装
-
-- 使用Xshell 7登录你的VPS
-- 使用root用户登陆
 
 已有SSL证书
 

@@ -1,6 +1,6 @@
 # 翻墙+个人网盘cloudreve配置
 
-### 1.参考[mack-a/v2ray-agent: （VLESS+TCP+TLS/VLESS+TCP+XTLS/VLESS+gRPC+TLS/VLESS+WS+TLS/VMess+TCP+TLS/VMess+WS+TLS/Trojan+TCP+TLS/Trojan+gRPC+TLS/Trojan+TCP+XTLS）+伪装站点、八合一共存脚本，支持多内核安装 (github.com)](https://github.com/mack-a/v2ray-agent) 完成xray的安装
+### 1.参考[mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) 完成xray的安装
 
 ### 2.参考[快速开始 - Cloudreve](https://docs.cloudreve.org/getting-started/install)安装配置cloudreve
 
