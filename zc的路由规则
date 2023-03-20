@@ -6,18 +6,22 @@
       "8.210.43.198"
     ],
     "domain": [
-      "domain:bing.com",
-      "domain:steampowered.com",
       "domain:just4.top",
-      "domain:zifuture.com"
-    ]
+      "domain:tjupt.org",
+      "domain:zifuture.com",
+      "domain:steamcontent.com",
+      "domain:shouxieai.com"
+    ],
+    "enabled": true
   },
   {
     "type": "field",
+    "inboundTag": [],
     "outboundTag": "block",
     "domain": [
       "geosite:category-ads-all"
-    ]
+    ],
+    "enabled": true
   },
   {
     "type": "field",
@@ -30,19 +34,22 @@
       "geosite:tld-cn",
       "geosite:steam@cn",
       "geosite:category-games@cn",
-      "geosite:bing@cn",
       "geosite:win-update"
-    ]
+    ],
+    "enabled": true
   },
   {
     "type": "field",
+    "inboundTag": [],
     "outboundTag": "proxy",
     "domain": [
       "geosite:geolocation-!cn"
-    ]
+    ],
+    "enabled": true
   },
   {
     "type": "field",
+    "inboundTag": [],
     "outboundTag": "direct",
     "ip": [
       "geoip:private",
@@ -50,11 +57,13 @@
     ],
     "domain": [
       "geosite:cn"
-    ]
+    ],
+    "enabled": true
   },
   {
     "type": "field",
     "port": "0-65535",
-    "outboundTag": "proxy"
+    "outboundTag": "proxy",
+    "enabled": true
   }
 ]
