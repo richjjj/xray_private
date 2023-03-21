@@ -52,6 +52,7 @@ systemctl restart xray && systemctl restart nginx && sleep 0.5 && systemctl stat
 | 流控 | xtls-rprx-vision |
 | 传输层安全 | tls |
 | Fingerprint | chrome |
+![image](https://user-images.githubusercontent.com/37280580/226632208-66bfb104-9d9c-41e8-9670-ff00c504743c.png)
 
 ### Android 客户端 [v2rayNG](https://github.com/2dust/v2rayNG)
 
