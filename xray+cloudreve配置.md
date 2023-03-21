@@ -1,6 +1,6 @@
-# 翻墙+个人网盘cloudreve配置
+# 代理+个人网盘cloudreve配置
 
-### 1.参考[mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) 完成xray的安装
+### 1.完成xray的安装
 
 ### 2.参考[快速开始 - Cloudreve](https://docs.cloudreve.org/getting-started/install)安装配置cloudreve
 
