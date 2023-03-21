@@ -1,5 +1,14 @@
 [
   {
+    "type": "field",
+    "inboundTag": [],
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:bing.com"
+    ],
+    "enabled": true
+  },
+  {
     "inboundTag": [],
     "outboundTag": "direct",
     "ip": [
