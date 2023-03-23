@@ -1,9 +1,10 @@
 # v2ray/xray-core 使用指南 
 领先 GFW 两个版本
 ## 协议
-- 推荐[VLESS-TCP-XTLS-Vision](VLESS-XTLS-Vision/readme.md)
-- 推荐[VLESS-XTLS-uTLS-REALITY](VLESS-XTLS-uTLS-REALITY)，不需要域名（或者ssl证书）
+- 推荐[VLESS-TCP-XTLS-Vision](VLESS-XTLS-Vision/readme.md),需要域名
 - 推荐[VLESS-H2-uTLS-REALITY](VLESS-H2-uTLS-REALITY/README.md),不要要域名
+- 推荐[VLESS-XTLS-uTLS-REALITY](VLESS-XTLS-uTLS-REALITY)，不需要域名（或者ssl证书）
+
 ## v2ray客户端
 - Windows
       [v2rayN](https://github.com/2dust/v2rayN)
