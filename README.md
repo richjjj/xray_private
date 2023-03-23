@@ -39,3 +39,5 @@ https://github.com/Loyalsoldier/v2ray-rules-dat
 https://github.com/XTLS/Xray-core
 
 https://github.com/mack-a/v2ray-agent
+
+https://github.com/XTLS/REALITY
