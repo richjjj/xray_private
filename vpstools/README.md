@@ -22,3 +22,9 @@ nexttrace 参考repo https://github.com/nxtrace/NTrace-core
 bash -c "$(curl http://nexttrace-io-leomoe-api-a0.shop/nt_install_v1.sh)"
 nexttrace IP
 ```
+
+## 3. ChatGPT checker
+https://github.com/missuo/OpenAI-Checker
+```
+bash <(curl -Ls https://cdn.jsdelivr.net/gh/missuo/OpenAI-Checker/openai.sh)
+```
