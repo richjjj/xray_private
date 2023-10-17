@@ -28,3 +28,12 @@ https://github.com/missuo/OpenAI-Checker
 ```
 bash <(curl -Ls https://cdn.jsdelivr.net/gh/missuo/OpenAI-Checker/openai.sh)
 ```
+
+## 4. 流媒体解锁测试
+https://github.com/lmc999/RegionRestrictionCheck
+```
+bash <(curl -L -s check.unlock.media)
+
+# 英文版
+bash <(curl -L -s check.unlock.media) -E
+```
