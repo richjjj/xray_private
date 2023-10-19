@@ -4,7 +4,8 @@ vps 测试脚本
 三网测试（包括延迟）
 参考repo https://github.com/i-abc/Speedtest
 ```
-https://github.com/i-abc/Speedtest
+bash <(curl -sL bash.icu/speedtest)
+# 8 10 12分别为电信移动联调测速
 ```
 
 到本机的下载速度 speedtestx
